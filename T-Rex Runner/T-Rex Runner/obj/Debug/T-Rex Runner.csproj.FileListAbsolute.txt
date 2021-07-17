@@ -1,0 +1,10 @@
+C:\Users\Jojo6\source\repos\T-Rex Runner\T-Rex Runner\obj\Debug\T-Rex Runner.csproj.AssemblyReference.cache
+C:\Users\Jojo6\source\repos\T-Rex Runner\T-Rex Runner\obj\Debug\T_Rex_Runner.Form1.resources
+C:\Users\Jojo6\source\repos\T-Rex Runner\T-Rex Runner\obj\Debug\T_Rex_Runner.Properties.Resources.resources
+C:\Users\Jojo6\source\repos\T-Rex Runner\T-Rex Runner\obj\Debug\T-Rex Runner.csproj.GenerateResource.cache
+C:\Users\Jojo6\source\repos\T-Rex Runner\T-Rex Runner\obj\Debug\T-Rex Runner.csproj.CoreCompileInputs.cache
+C:\Users\Jojo6\source\repos\T-Rex Runner\T-Rex Runner\bin\Debug\T-Rex Runner.exe.config
+C:\Users\Jojo6\source\repos\T-Rex Runner\T-Rex Runner\bin\Debug\T-Rex Runner.exe
+C:\Users\Jojo6\source\repos\T-Rex Runner\T-Rex Runner\bin\Debug\T-Rex Runner.pdb
+C:\Users\Jojo6\source\repos\T-Rex Runner\T-Rex Runner\obj\Debug\T-Rex Runner.exe
+C:\Users\Jojo6\source\repos\T-Rex Runner\T-Rex Runner\obj\Debug\T-Rex Runner.pdb
